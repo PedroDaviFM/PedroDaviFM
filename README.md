@@ -14,5 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PedroDaviFM&show_icons=true" />
 </picture>
 
-<br>
 ![snake gif](https://github.com/PedroDaviFM/PedroDaviFM/blob/output/github-contribution-grid-snake.gif)
