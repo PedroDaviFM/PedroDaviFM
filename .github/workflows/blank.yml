@@ -5,6 +5,8 @@
 
 name: Generate Snake
 
+color: black;
+
 # Controls when the action will run.
 on:
   schedule:
